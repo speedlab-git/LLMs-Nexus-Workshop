@@ -7,5 +7,5 @@ RAG Application: [Click Here](https://www.kaggle.com/code/awalahmed/building-rag
 
 FineTuning: [Click Here](https://colab.research.google.com/drive/1XEZk2Zna_gKfLrMIS-5ylCAc_m4ARPG8?usp=sharing)
 
-## Session 1: Vision Language Models in Action: From concepts to Hands on Application
+## Session 2: Vision Language Models in Action: From concepts to Hands on Application
 VLM Inference with LLAVA [Click Here](https://colab.research.google.com/drive/1z4BnS_0G0ffp_ThiFNPyz8WlJMyD6ms2?usp=sharing)
