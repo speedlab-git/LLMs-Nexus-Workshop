@@ -1,0 +1,4 @@
+RAG Application: https://www.kaggle.com/code/awalahmed/building-rag-using-mistral-faiss-v2
+
+
+FineTuning: https://colab.research.google.com/drive/1XEZk2Zna_gKfLrMIS-5ylCAc_m4ARPG8?usp=sharing
